@@ -8,4 +8,4 @@ Foi desenvolvido um dashboard no PowerBI, utilizando a ferramenta de conexão di
 
 O resultado do desenvolvimento do dashboard pode ser visualizado abaixo e a versão interativa pode ser acessada [aqui](https://app.powerbi.com/view?r=eyJrIjoiMDVkZjAxODktZjdjNy00MWU1LThlYTgtNjhlMzBmNDJjNWI5IiwidCI6IjJhZDMyYzlkLTMxNGItNDdiYi1hYzJiLTUzZDkwMTRmM2I3YyJ9).
 
-![image](https://github.com/felipesbreve/ChallengeBI/assets/72587609/ebb64fd2-0a24-4fe8-8232-f9a1c1631632)
+![image](https://github.com/felipesbreve/ChallengeBI/assets/72587609/a945a030-2bc8-4cfe-be6d-ff5a2b65de71)
